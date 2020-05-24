@@ -1,0 +1,32 @@
+html
+{ margin:10px;
+  paddding:20px;
+}
+header{
+display: block;
+height: 45px;
+background-color: #5087ef;
+position: absolute;
+top:0;
+left:0;
+right:0;
+} 
+nav{ position: relative;
+top:0;
+}
+.home{
+ font-family: 'Bookman Old Style', Light Italic;
+ color: white;
+margin-left: 30px;
+margin-right:20px;
+float: left;}
+.Gall{font-family: 'Bookman Old Style', Light Italic;
+ color: white;
+margin-right: 20px;
+float: left;
+}
+.About{font-family: 'Bookman Old Style', Light Italic;
+ color: white;
+margin-right: 20px;
+float: left;
+}
